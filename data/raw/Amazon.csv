@@ -1,0 +1,10 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductName,Category,Quantity,UnitPrice,Discount,Total amount,PaymentMethod,OrderStatus,City,Country
+ORD0000001,31-01-2023,CUST001504,Vihaan Sharma,Drone Mini,Books,3,106.59,0,319.86,Debit Card,Delivered,Washington,India
+ORD0000002,30-12-2023,CUST000178,Pooja Kumar,Microphone,Home & Kitchen,1,251.37,0.05,259.64,Amazon Pay,Delivered,Fort Worth,United States
+ORD0000003,10-05-2022,CUST047516,Sneha Singh,Power Bank 20000mAh,Clothing,3,35.03,0.1,108.06,Debit Card,Delivered,Austin,United States
+ORD0000004,18-07-2023,CUST030059,Vihaan Reddy,Webcam Full HD,Home & Kitchen,5,33.58,0.15,159.66,Cash on Delivery,Delivered,Charlotte,India
+ORD0000005,04-02-2023,CUST048677,Aditya Kapoor,T-Shirt,Clothing,2,515.64,0.25,821.36,Credit Card,Cancelled,San Antonio,Canada
+ORD0000006,31-12-2022,CUST042705,Karan Sharma,Cookware Set,Books,4,449.73,0,2017.53,UPI,Delivered,Los Angeles,United States
+ORD0000007,20-09-2024,CUST037667,Aarav Verma,Dress Shirt,Clothing,2,219.81,0.2,394.81,UPI,Delivered,Chicago,Australia
+ORD0000008,10-11-2022,CUST031165,Rohit Kumar,Jeans,Toys & Games,2,306.51,0.05,617.73,Debit Card,Pending,Denver,India
+ORD0000009,26-06-2024,CUST026965,Aman Kapoor,Kids Toy Car,Sports & Outdoors,4,146.09,0,638.14,Debit Card,Delivered,Washington,United States
